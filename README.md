@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Siwat.
+
+Just a guy love to code. Currently switching editor from Doom Emacs back to Neovim/VS Code. Still decided which one I'm going to main 🤔 Still, Vim motion FTW.
+
+⚡ Fun fact
+- I can speak Thai, English, Japanese
+- I lift, I code, I sleep REPEAT!
+- VR Enthusiast
+
+🌱 I’m currently learning rust, wasm
+
 
 <!--
 **siwatpru/siwatpru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
