@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Siwat.
 
-Just a guy love to code. Currently switching editor from Doom Emacs back to Neovim/VS Code. Still decided which one I'm going to main 🤔 Still, Vim motion FTW.
+Just a guy who love to code. Currently switching editor from Doom Emacs back to VS Code and back to the gream Neovim.
 
 ⚡ Fun fact
 - I can speak Thai, English, Japanese
