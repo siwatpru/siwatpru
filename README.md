@@ -7,7 +7,7 @@ Just a guy who love to code. Currently switching editor from Doom Emacs back to 
 - I lift, I code, I sleep REPEAT!
 - VR Enthusiast
 
-🌱 I’m currently learning rust, wasm
+🌱 I’m currently learning rust, wasm, go
 
 
 <!--
