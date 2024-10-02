@@ -1,13 +1,6 @@
-### Hi there 👋 I'm Siwat.
+### Hi there 👋
 
-Just a guy who love to code. Currently switching editor from Doom Emacs back to VS Code and back to the gream Neovim.
-
-⚡ Fun fact
-- I can speak Thai, English, Japanese
-- I lift, I code, I sleep REPEAT!
-- VR Enthusiast
-
-🌱 I’m currently learning rust, wasm, go
+Just a guy who love to code. Neovim FTW.
 
 
 <!--
