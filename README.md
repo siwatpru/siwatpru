@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Just a guy who love to code. Neovim FTW.
+NEOVIM !!!
 
 
 <!--
