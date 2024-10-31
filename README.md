@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-NEOVIM !!!
+Neovim Enjoyer
 
+"Premature optimization is the root of all evil"
+https://m.xkcd.com/1691/
 
 <!--
 **siwatpru/siwatpru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
