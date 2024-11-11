@@ -2,6 +2,9 @@
 
 Neovim Enjoyer
 
+"Locality Of Behaviour"
+https://htmx.org/essays/locality-of-behaviour/
+
 "Premature optimization is the root of all evil"
 https://m.xkcd.com/1691/
 
