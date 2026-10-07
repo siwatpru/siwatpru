@@ -1,3 +1,1 @@
-### Hi there 👋
-
-Neovim Enjoyer
+load up the pro tools and press 3
